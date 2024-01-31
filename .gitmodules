@@ -1,0 +1,3 @@
+[submodule "remote-starter-code/urban/octo-telegram"]
+	path = remote-starter-code/urban/octo-telegram
+	url = git@github.com:coding-boot-camp/urban-octo-telegram.git
